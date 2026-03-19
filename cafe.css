@@ -1,0 +1,168 @@
+body{
+    background-image: url(cfff.jpeg); 
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    background-size: 90%;
+}
+header{
+    background-color: wheat;
+    color: white;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-radius: 8px;
+}
+header h1{
+    text-align: center;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+nav ul{
+    display: block;
+    list-style: none;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    gap: 20px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover{
+    color: bisque;
+}
+.code{
+    display: flex;
+    padding: 50px;
+    gap: 10px;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+.codee{
+    padding: 30px 50px;
+    
+    color: black;
+}
+button{
+    background-color: wheat;
+    color: black;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 15px;
+    text-align: left;
+    display: block;
+    margin: 20px;
+
+}
+.cods{
+    text-align: center;
+    color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.codes{
+    color: white;
+    text-align: center;
+}
+.samb{
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sambe{
+    background-color: white;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+    text-align: center;
+}
+.sarr{
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+    justify-content: center;
+}
+.cc{
+    color: black;
+}
+.x{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.bb{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: wheat;
+    
+}
+.bebe{
+    text-align: center;
+}
+.r{
+    text-align: center;
+}
+.Amour{
+    text-align: center;
+    color: bisque;
+}
+.S{
+    background-color: wheat;
+    color: black;
+    display: flex;
+    padding: 30px;
+}
+.ss{
+    margin: 0 10px;
+    flex: 1;
+}
+.sss{
+    flex: 1;
+    margin: 0 10px;
+}
+.ssss{
+    flex: 1;
+    margin: 0 10px;
+    text-decoration: none;
+
+}
+.CSS{
+    list-style: none;
+    
+}
+.CSS a{
+    color: black;
+    padding: 15px;
+    margin: 2px;
+}
+.G{
+    background-color: black;
+    color: wheat;
+}
+.gg{
+    background-color: black;
+    color: wheat;
+}
+.ggg{
+    background-color: black;
+    color: wheat;
+}
+.copy{
+    color: black;
+    background-color: white;
+}
+
+
+#test{
+    display: flex;
+    justify-content: center;
+}
